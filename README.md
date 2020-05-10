@@ -1,4 +1,4 @@
-霍夫直线法（straight）和滑动窗口法（curve）分别实现车道线检测
+霍夫直线法（straight.py）和滑动窗口法（curve.py）分别实现车道线检测
 
 代码运行环境：Anaconda下面的spyder4.0.1
 
