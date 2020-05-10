@@ -5,3 +5,7 @@
 代码运行错误可根据提示，在Anaconda Prompt下安装各类库，pip install opencv-python
 
 不出现图片输出结果，可以在spyder中设置Tools-Preferences-IPython console-Graphics-Backend-Automatic
+
+# 直线道路视频输出
+
+![直道](https://github.com/zhaohaowu/Graduation-Project/blob/master/Videos/out_straight.mp4)
