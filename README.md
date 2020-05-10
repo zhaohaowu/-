@@ -8,4 +8,4 @@
 
 # 直线道路视频输出
 
-![直道](https://github.com/zhaohaowu/Graduation-Project/blob/master/Videos/out_straight.mp4)
+[直道](https://github.com/zhaohaowu/Graduation-Project/blob/master/Videos/out_straight.mp4)
