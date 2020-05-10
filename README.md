@@ -12,6 +12,8 @@ gray.py
 
 基于Spyder4.0.1和OpenCV库，通过Python仿真进行上述不同灰度化处理方法的比较，如图1所示。
 
+![image](http://github.com/itmyhome2013/readme_add_pic/raw/master/images/nongshalie.jpg)
+
  (a)  R分量法             (b)  G分量法            (c)  B分量法
    
  (d)  最大值法            (e)  平均值法           (f)  加权平均法
