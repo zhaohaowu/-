@@ -6,6 +6,10 @@
 
 不出现图片输出结果，可以在spyder中设置Tools-Preferences-IPython console-Graphics-Backend-Automatic
 
-# 直线道路视频输出
+# 直线道路
 
-[直道](https://github.com/zhaohaowu/Graduation-Project/blob/master/Videos/out_straight.mp4)
+[处理后视频](https://github.com/zhaohaowu/Graduation-Project/blob/master/Videos/out_straight.mp4)
+
+# 弯曲道路
+
+[处理后视频](https://github.com/zhaohaowu/Graduation-Project/blob/master/Videos/out_curve.mp4)
